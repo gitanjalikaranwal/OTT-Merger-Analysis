@@ -48,7 +48,7 @@ The goal is to consolidate key business metrics and generate **actionable busine
 
 ## 📂 Repository Structure
 ```text
-├── Data/         # Raw and cleaned datasets
-├── SQL/          # SQL queries 
+├── Data/           # Sample Schema
+├── SQL/            # SQL queries 
 ├── Screenshots/    # Power BI dashboard screenshots
 └── README.md
