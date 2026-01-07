@@ -28,7 +28,7 @@ The goal is to consolidate key business metrics and generate **actionable busine
 
 ## 📊 Key Insights
 - **Revenue growth** is primarily driven by **Platform B users** while Platform A shows higher inactivity
-- **ARPU** varies significantly by platform and by user active months (Screenshots/subscription_revenue.png)
+- **ARPU** varies significantly by platform and by user active months ![Dashboard Preview](Screenshots/subscription_revenue.png)
 - Increased inactivity correlates with **lower average watch time**, indicating content engagement gaps  
 - Certain content categories perform consistently across both platforms and can be leveraged for cross-promotion 
 
